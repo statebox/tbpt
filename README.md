@@ -10,12 +10,11 @@ http://mathworld.wolfram.com/BipartiteGraph.html
 
 Bi-partite graphs are ubiquitous in mathematics and computer science.
 
-Matching on a graph is a very natural application (customer ↔ taxi), recommendations, clustering.
-Lots of cool things.
+Matching on a graph is a very natural application (customer ↔ taxi),
+recommendations, clustering.  Lots of cool things.
 
-And, of course, my personal motivation, http://statebox.github.io but more on that later ;^)
-
-/cc @repatica @epost @whyrusleeping @jbenet @diasdavid 
+Statebox uses BPT graphs to specify states and transitions between them.
+A Petri net is a bipartite graph with some extra stuff.
 
 ## Details
 
